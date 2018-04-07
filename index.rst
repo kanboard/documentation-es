@@ -14,15 +14,15 @@ Kanboard es un software de gestión de proyectos Kanban de fuente abierta y grat
 .. toctree::
     :maxdepth: 1
 
-    introduction
-    users
-    boards
-    projects
-    tasks
-    subtasks
-    swimlanes
-    analytics
-    notifications
-    rss
-    settings
-    keyboard_shortcuts
+    user_guide/introduction
+    user_guide/users
+    user_guide/boards
+    user_guide/projects
+    user_guide/tasks
+    user_guide/subtasks
+    user_guide/swimlanes
+    user_guide/analytics
+    user_guide/notifications
+    user_guide/rss
+    user_guide/settings
+    user_guide/keyboard_shortcuts

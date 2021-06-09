@@ -8,7 +8,6 @@ Kanboard es un software de gestión de proyectos Kanban de fuente abierta y grat
 - Foro: https://kanboard.discourse.group/
 - RSS Feed: https://github.com/kanboard/kanboard/releases.atom
 - Mastodon: https://mastodon.social/@kanboard
-- IRC: #kanboard en Freenode
 
 
 .. toctree::
